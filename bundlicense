@@ -1,0 +1,5 @@
+#!/bin/bash
+
+operation=$1
+shift
+ruby /Users/todd/code/cirrusmio/bundlicense/${operation}.rb
